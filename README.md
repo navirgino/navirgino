@@ -2,7 +2,7 @@
 
 Hi everyone!
 
-With a background in entrepreneurship, networking, customer-service, and sales I am now learning as much as I can about technology and development. I believe that tech has the capability to turbo-charge and encapsulate any current passions another individual may have. Just the ability to create tools to solve specific problem absolutely fascinates me.
+With a background in entrepreneurship, networking, customer-service, and sales I am now learning as much as I can about technology and development. I believe that tech has the capability to turbo-charge and encapsulate any current passions another individual may have. Just the ability to create tools to solve specific problems absolutely fascinates me.
 
 Here's a little bit more abot myself:
 
