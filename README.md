@@ -2,8 +2,7 @@
 
 whoami:
 
-- 🔭 Software Engineer, comic and card enthusiast
-- 🌱 Trying to master e2e app building
+- 🔭 dev, gamedev, antique, comic and card enthusiast
 - 🤔 Currently work everyday with Typescript, Angular, Ionic, and NgRx
 - 📫 How to reach me: nicovirgino@gmail.com
 
